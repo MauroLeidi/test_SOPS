@@ -1,8 +1,10 @@
 # *{{ settings.general.name }}*
 
-Standard Operating Procedures (SOPs) bundle the documentation that describes the *nose-to-tail* execution of the experiment (that is, from data collection to final analysis), at an *atomic* level of detail, so that experiments can robustly be repeated.
-Within your lab or your institution, the goal is that experimenters can carry out new data collection according to the overarching study plans with minimal supervision.
-Beyond the doors of your lab or institution, SOPs are a critical tool to maximize the reproducibility of your research by others.
+I love Jaime he is the best spanish in our LAB.
+I love Jaime he is the best spanish in our LAB.
+I love Jaime he is the best spanish in our LAB.
+I love Jaime he is the best spanish in our LAB.
+
 
 ??? thanks "Thanks to Dr. Jo Etzel and to McKenzie P. Hagen"
 
